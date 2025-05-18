@@ -42,7 +42,7 @@ Where:
 ---
 
 ## 🧪 Methodology
-
+![Methodology](Methodology.png)
 > A step-by-step methodology will be shared in detailed PDF documentation. It includes:  
 1. Data collection and preprocessing  
 2. Derivation of each USLE factor (R, K, LS, C, P)  
